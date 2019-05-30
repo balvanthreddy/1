@@ -22,6 +22,7 @@
 
 ![Terraform logo](https://cdn.rawgit.com/hashicorp/terraform-website/master/content/source/assets/images/logo-hashicorp.svg)
 
-```
-   *   install git
+```javascript
+ function (
+ install git
 ```
