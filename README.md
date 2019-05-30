@@ -20,4 +20,4 @@
  * [x] 2 
  * [ ] 3
 
-![Terraform logo](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjlu7uPt8PiAhUrUt8KHU8XC6AQjRx6BAgBEAU&url=https%3A%2F%2Fwww.terraform.io%2Fdocs%2Findex.html&psig=AOvVaw2UHj8Hp29qelJeY4TRQG4g&ust=1559311756871445)
+![Terraform logo](https://www.terraform.io/)
